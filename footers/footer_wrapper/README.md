@@ -1,0 +1,1 @@
+This is footer_wrapper for use in simple page.
