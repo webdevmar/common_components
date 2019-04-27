@@ -1,0 +1,1 @@
+This is footer_bootstrap for use in simple page.
